@@ -1,15 +1,28 @@
+<h1 align="center">Hi, I'm Dr. Zhao Tang 👋</h1>
+
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="Dr. Zhao Tang — Software Engineer, Data & AI Systems" width="100%" />
+  <strong>Software Engineer · Data & AI Systems</strong><br>
+  Building reliable data platforms, measurable AI products, and production systems that hold up under real load.
 </p>
 
-# Hi, I'm Dr. Zhao Tang 👋
+<p align="center">
+  <a href="https://zt5rice.github.io/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/tzhao7-sde/">LinkedIn</a> ·
+  <a href="mailto:ztangintuit@gmail.com">Email</a> ·
+  <a href="https://zt5rice.github.io/resume/Zhao_Tang_Resume_DataAI_2026-10-21.pdf">Resume</a>
+</p>
 
-**Software Engineer · Data & AI Systems**
+## About me
 
-I build reliable data platforms, measurable AI products, and production systems
-that hold up under real load.
+My background spans computational imaging, machine learning, and research data
+infrastructure. I completed a PhD at Rice University, where I built software for
+complex scientific datasets and reproducible analysis. At Intuit, I moved into
+real-time data platforms, customer-facing measurement, and production
+reliability.
 
-[Portfolio](https://zt5rice.github.io/) · [LinkedIn](https://www.linkedin.com/in/tzhao7-sde/) · [Email](mailto:ztangintuit@gmail.com) · [Resume](https://zt5rice.github.io/resume/Zhao_Tang_Resume_DataAI_2026-10-21.pdf)
+I care about the part after the demo works: correct data, observable systems,
+measured outcomes, and clear boundaries between a portfolio build and
+production traffic.
 
 ## Current focus
 
@@ -30,18 +43,6 @@ that hold up under real load.
 ## Technical toolkit
 
 `Python` `SQL` `Spark` `Kafka` `Airflow` `dbt` `Databricks` `PostgreSQL` `ClickHouse` `FastAPI` `Docker` `Kubernetes` `Terraform` `AWS` `Prometheus` `Grafana` `TypeScript` `pgvector` `RAG / GraphRAG`
-
-## About
-
-My background spans computational imaging, machine learning, and research data
-infrastructure. I completed a PhD at Rice University, where I built software for
-complex scientific datasets and reproducible analysis. At Intuit, I moved into
-real-time data platforms, customer-facing measurement, and production
-reliability.
-
-I care about the part after the demo works: correct data, observable systems,
-measured outcomes, and clear boundaries between a portfolio build and
-production traffic.
 
 ## Research
 
