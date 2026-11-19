@@ -34,9 +34,11 @@ Pin these in order:
 2. `NL2SQLAgent`
 3. `clickstream`
 4. `nanoparticle-video-pipeline`
+5. `job-fit-research-agent`
 
-The four projects cover AI/retrieval, governed analytics, streaming data, and
-research infrastructure. Avoid pinning early coursework or forks.
+The five projects cover AI/retrieval, governed analytics, streaming data,
+research infrastructure, and controlled agent research. Avoid pinning early
+coursework or forks.
 
 ## Repository descriptions and websites
 
@@ -46,6 +48,7 @@ Recommended website values:
 - NL2SQLAgent → `https://zt5rice.github.io/work/nl2sqlagent/`
 - clickstream → `https://zt5rice.github.io/work/clickstream/`
 - nanoparticle-video-pipeline → `https://zt5rice.github.io/work/nanotrack/`
+- job-fit-research-agent → `https://zt5rice.github.io/work/job-fit-research-agent/`
 
 Recommended topics:
 
@@ -53,8 +56,9 @@ Recommended topics:
 - NL2SQLAgent: `nl2sql`, `llm`, `fastapi`, `react`, `analytics`
 - clickstream: `streaming`, `kafka`, `spark`, `clickhouse`, `data-engineering`
 - nanoparticle-video-pipeline: `scientific-computing`, `computer-vision`, `python`, `airflow`
+- job-fit-research-agent: `ai-agents`, `deepagents`, `evaluation`, `python`, `llm`
 
 ## Publication wording
 
-Use `6 peer-reviewed publications`, with additional conference posters and
-presentations excluded from that count.
+Use `6 peer-reviewed publications`. Conference posters and presentations are
+listed separately and are excluded from that count.

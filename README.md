@@ -28,6 +28,7 @@ production traffic.
 
 - Reliable data platforms and real-time pipelines
 - Retrieval, evaluation, and production AI systems
+- Controlled agent workflows, evidence validation, and deterministic evaluation
 - Observability, incident response, and system reliability
 - Reproducible research computing
 
@@ -39,15 +40,16 @@ production traffic.
 | **GraphAtlas** | Multi-engine GraphRAG platform with citations and measurable retrieval quality | `0.840 Hit@5` · `537 ms p95` · `4.38/5 faithfulness` | [Case study](https://zt5rice.github.io/work/graphatlas/) · [Code](https://github.com/zt5rice/graphatlas) |
 | **NL2SQLAgent** | Governed natural-language analytics with inspectable, read-only SQL | `1.03M rows` · `<250 ms queries` · `7–15 s LLM latency` | [Case study](https://zt5rice.github.io/work/nl2sqlagent/) · [Code](https://github.com/zt5rice/NL2SQLAgent) |
 | **nanotrack** | Reproducible scientific video-tracking pipeline with orchestration and observability | `15 h → 30 min` · `6 publications` · `10k frames` | [Case study](https://zt5rice.github.io/work/nanotrack/) · [Code](https://github.com/zt5rice/nanoparticle-video-pipeline) |
+| **Job Fit Research Agent** | Controlled DeepAgents workflow with evidence validation and deterministic job-fit scoring | `15/15 synthetic eval` · `100% evidence coverage` · `40 tests` | [Case study](https://zt5rice.github.io/work/job-fit-research-agent/) · [Code](https://github.com/zt5rice/job-fit-research-agent) |
 
 ## Technical toolkit
 
-`Python` `SQL` `Spark` `Kafka` `Airflow` `dbt` `Databricks` `PostgreSQL` `ClickHouse` `FastAPI` `Docker` `Kubernetes` `Terraform` `AWS` `Prometheus` `Grafana` `TypeScript` `pgvector` `RAG / GraphRAG`
+`Python` `SQL` `Spark` `Kafka` `Airflow` `dbt` `Databricks` `PostgreSQL` `ClickHouse` `FastAPI` `Docker` `Kubernetes` `Terraform` `AWS` `Prometheus` `Grafana` `TypeScript` `pgvector` `RAG / GraphRAG` `DeepAgents`
 
 ## Research
 
-My research work supports **6 peer-reviewed publications**, with additional
-conference posters and presentations.
+My research work supports **6 peer-reviewed publications**. Conference posters
+and presentations are listed separately and are not included in this count.
 
 [Google Scholar](https://scholar.google.com/citations?user=WlAErpUAAAAJ&hl=en)
 
